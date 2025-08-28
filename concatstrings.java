@@ -1,5 +1,3 @@
-
-
 public class concatstrings {
     public static void main(String[] args) {
         
