@@ -1,4 +1,4 @@
-public class EnhancedForLoop {
+public class EnhancedForLoop  {
     public static void main(String[] args) {
         int arr1[]={1,2,3,4,5};
         for(int n:arr1)
