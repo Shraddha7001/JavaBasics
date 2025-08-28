@@ -1,4 +1,4 @@
-public class switchcase {
+public class switchcase  {
     public static void main(String[] args){
         // int num=100;
         int num=600;
