@@ -1,4 +1,4 @@
-public class methodsInString {
+public class methodsInString  {
     public static void main(String[] args) {
         
 
