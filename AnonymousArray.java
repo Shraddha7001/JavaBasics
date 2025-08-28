@@ -1,4 +1,4 @@
-class calc{
+class calc {
     public int add(int arr[])
     {
         int result =0;
