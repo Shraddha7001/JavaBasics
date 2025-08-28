@@ -1,4 +1,4 @@
-public class whileANDdowhile {
+public class whileANDdowhile  {
     public static void main(String[] args) {
 
 
