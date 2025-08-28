@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class anagram {
+public class anagram  {
     public static void main(String[] args) {
 
         String str1="School Master";
