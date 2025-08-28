@@ -1,4 +1,4 @@
-class calc{
+class calc {
     public void show(byte n){
         System.out.println("Byte " + n);
     }
