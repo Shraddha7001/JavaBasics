@@ -1,4 +1,4 @@
-public class reversingOfString {
+public class reversingOfString  {
     public static void main(String[] args) {
 
 
