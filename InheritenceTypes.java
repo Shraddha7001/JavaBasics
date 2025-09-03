@@ -1,5 +1,5 @@
 //Singlelevel Inheritence
-class Animal{
+class Animal {
     int legs;
     String sound;
 
