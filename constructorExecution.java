@@ -1,4 +1,4 @@
-class Demo1{
+class Demo1 {
     int a,b;
     public Demo1()
     {
