@@ -1,4 +1,4 @@
-class Aeroplane{
+class Aeroplane {
     public void takeoff()
     {
         System.out.println("Aeroplane is taking off");

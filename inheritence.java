@@ -1,4 +1,4 @@
-class human{
+class human {
     private String name;
     int age;
     
