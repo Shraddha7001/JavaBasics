@@ -1,4 +1,4 @@
-interface car{
+interface car {
     void drive();
 }
 
@@ -19,3 +19,4 @@ public class AnnonymousInner {
         obj.drive();
     }
 }
+
