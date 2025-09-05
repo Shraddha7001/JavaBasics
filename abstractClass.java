@@ -1,4 +1,4 @@
-abstract class Aeroplane2{
+abstract class Aeroplane2 {
     //100% abstraction achieve
     abstract public void takeoff();
     
