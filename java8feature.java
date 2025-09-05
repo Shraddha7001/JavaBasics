@@ -1,4 +1,4 @@
-interface A{
+interface A {
     void show();
     default void config()
     {
@@ -31,3 +31,4 @@ public class java8feature {
         obj.config();
     }
 }
+
