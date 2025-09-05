@@ -1,4 +1,4 @@
-class A{
+class A {
     public void show()
     {
         System.out.println("In show");
@@ -24,3 +24,4 @@ public class InnerDemo {
 
     }
 }
+
