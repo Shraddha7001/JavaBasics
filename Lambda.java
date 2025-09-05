@@ -1,4 +1,4 @@
-interface car{
+interface car {
     void drive(int avg);
     
 }
@@ -23,3 +23,4 @@ public class Lambda {
 
     }
 }
+
