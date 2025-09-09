@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-class calc extends Thread{
+class calc extends Thread {
 
 
     public void run()
@@ -71,3 +71,4 @@ public class MultiThreading {
         // t2.run()
     }
 }
+
